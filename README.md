@@ -1,3 +1,4 @@
+ HEAD
 # Repository for CSC 'Spatial data analysis with R' course 
 
 The aim of this course is to familiarize participants with spatial analysis with R. 
@@ -36,3 +37,5 @@ Last instructor led course was on 10-12-5.2023: https://ssl.eventilla.com/event/
 
 ## Additional links
 * [Other external learning materials](https://docs.csc.fi/apps/r-env-for-gis/#references)
+# r-spatial-course
+ myrepo/main
